@@ -1,5 +1,5 @@
 # LP1-simulator Open Source
- Simulatore di domande teoriche di LP con risultato finale.
+ Simulatore di domande teoriche di CF con risultato finale.
 - Hosted app: https://lp1simulator-2-u6882435.deta.app/
 
 Le domande sono prese dal pdf `teoria.pdf`. E' possibile contribuire al progetto per arricchire il questionario. La **mission** di questo repository è facilitare la preparazione di questo esame alle future matricole.
@@ -12,11 +12,11 @@ Grazie per il tuo interesse a contribuire al progetto! Di seguito trovi le istru
 
 ## Contribuire con una Pull Request
 
-1. Effettua il fork del repository [LP1-simulator](https://github.com/AlessandroBonomo28/LP1-simulator) cliccando sul pulsante "Fork" in alto a destra della pagina. In questo modo otterrai una copia del repository nel tuo account GitHub.
+1. Effettua il fork del repository [CF-simulator](https://github.com/AlessandroBonomo28/CF-simulator) cliccando sul pulsante "Fork" in alto a destra della pagina. In questo modo otterrai una copia del repository nel tuo account GitHub.
 
 2. Clona il repository dal tuo account GitHub nel tuo ambiente di sviluppo locale utilizzando il comando:
    ```
-   git clone https://github.com/TUO_USERNAME/LP1-simulator.git
+   git clone https://github.com/TUO_USERNAME/CF-simulator.git
    ```
    Assicurati di sostituire `TUO_USERNAME` con il tuo nome utente GitHub.
 
