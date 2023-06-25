@@ -1,6 +1,6 @@
 # CF-simulator Open Source
  Simulatore di domande teoriche di CF con risultato finale.
-- Hosted app: https://spacecfapp-2-a0175848.deta.app/
+- Hosted app: https://spacecfapp-3-a0175848.deta.app/
 
 Le domande sono prese dal pdf `teoria.pdf`. E' possibile contribuire al progetto per arricchire il questionario. La **mission** di questo repository è facilitare la preparazione di questo esame alle future matricole.
 
